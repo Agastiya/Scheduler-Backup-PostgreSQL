@@ -3,8 +3,9 @@ package scheduler
 import (
 	"time"
 
-	"agastiya.github/backup-db/Config"
-	"agastiya.github/backup-db/Scheduler/Backup"
+	"scheduler-backup-postgresql/Config"
+	"scheduler-backup-postgresql/Scheduler/Backup"
+
 	"github.com/go-co-op/gocron"
 )
 

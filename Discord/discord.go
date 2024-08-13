@@ -8,7 +8,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"agastiya.github/backup-db/Config"
+	"scheduler-backup-postgresql/Config"
+
 	"github.com/rs/zerolog/log"
 )
 

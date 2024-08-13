@@ -1,6 +1,6 @@
 package main
 
-import "agastiya.github/backup-db/App"
+import "scheduler-backup-postgresql/App"
 
 func main() {
 	App.AppInitialization()

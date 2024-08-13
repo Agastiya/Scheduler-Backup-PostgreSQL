@@ -1,8 +1,8 @@
 package App
 
 import (
-	"agastiya.github/backup-db/Config"
-	scheduler "agastiya.github/backup-db/Scheduler"
+	"scheduler-backup-postgresql/Config"
+	scheduler "scheduler-backup-postgresql/Scheduler"
 )
 
 func AppInitialization() {

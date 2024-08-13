@@ -6,8 +6,9 @@ import (
 	"os/exec"
 	"time"
 
-	"agastiya.github/backup-db/Config"
-	"agastiya.github/backup-db/Discord"
+	"scheduler-backup-postgresql/Config"
+	"scheduler-backup-postgresql/Discord"
+
 	"github.com/go-co-op/gocron"
 	"github.com/rs/zerolog/log"
 )
