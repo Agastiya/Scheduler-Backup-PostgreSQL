@@ -1,4 +1,4 @@
-package Discord
+package Notifiers
 
 import (
 	"bytes"
