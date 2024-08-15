@@ -49,5 +49,4 @@ Once all the steps are complete, **it's showtime**
 ensure the program running well. Wait until the time set in the scheduler, and the backup file will be sent to the notifiers.
 
 ## Acknowledgments
-* [gocron: A Golang Job Scheduling Package](https://github.com/go-co-op/gocron?tab=readme-ov-file
-
+* [gocron: A Golang Job Scheduling Package](https://github.com/go-co-op/gocron?tab=readme-ov-file)
