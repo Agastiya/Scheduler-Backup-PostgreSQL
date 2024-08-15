@@ -26,7 +26,7 @@ Several stages that need to be prepared at this stage are as follows :
 
 * Clone this repository
 
-        git clone
+        git clone https://github.com/Agastiya/scheduler-backup-postgresql.git
 
 * Create env.yml file
         
